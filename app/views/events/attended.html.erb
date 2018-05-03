@@ -1,0 +1,9 @@
+<%= render 'layouts/navbar' %>
+<h1>Evenements à venir : </h1>
+  <% @events.each do |event| %>
+    <% if user_signed_in? && event.attendee_id == current_user.id %>
+    <p>The event <%= event.description %> will take place at <%= event.date %> on <%= event.place %></p>
+  <% else %>
+    <p> </p>
+  <% end %>
+<% end %>
