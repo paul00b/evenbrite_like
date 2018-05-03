@@ -1,24 +1,24 @@
-# README
+# Evenbrite like 360
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Project Eventbrite like with THP by Paul Broussolle aka <a href="https://www.youtube.com/watch?v=SSK2SrPU5hs&lc=z12ef5qpowijv1y4t04chvdrisenerehqb0">the minister of mixture</a>
 
-Things you may want to cover:
+## Disclamer :
+Tout est expliqué sur la page d'accueil du site <3
 
-* Ruby version
+## How to use ?
 
-* System dependencies
+1. Grab your morning orange pinapple milkshake, and let's go !
+2. Open <a href="https://evenbrite-v2.herokuapp.com"> the evenbrite project </a>
+3. Use the navbar as following :
+5. Following isn't working yet !
+6. <3
 
-* Configuration
+## To do list
+* Start a bar fight
+* Save the world
+* Meet a vampire
+* Jump from a bridge to another one
 
-* Database creation
+## Contributing
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Bug reports and pull requests are welcome on GitHub at https://github.com/paul00b/evenbrite_like.
